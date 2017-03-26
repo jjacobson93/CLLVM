@@ -1,0 +1,5 @@
+module CLLVM [system] {
+    header "llvm.h"
+    link "llvm"
+    export *
+}
